@@ -37,6 +37,8 @@ npc_torek
 npc_feero_ironhand
 EndContentData */
 
+// Sydney made changes lololol nubs
+
 #include "precompiled.h"
 #include "escort_ai.h"
 
