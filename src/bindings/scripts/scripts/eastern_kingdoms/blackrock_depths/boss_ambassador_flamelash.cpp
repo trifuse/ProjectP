@@ -28,7 +28,7 @@ enum
     SPELL_FIREBLAST             = 15573,
     SPELL_BURNING_SPIRIT        = 13489,
     SPELL_BURNING_SPIRIT_BUFF   = 14744,
-	// lolollad232
+	//derperperpeprpe
     NPC_BURNING_SPIRIT          = 9178,
 };
 
